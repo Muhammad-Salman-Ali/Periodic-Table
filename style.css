@@ -1,0 +1,45 @@
+h1{
+    background-color: rgb(86, 145, 27);
+    color: black;
+    text-align: center;
+    border: 3px solid black;
+}
+table{
+    width: 200px;
+    font-size: 20px;
+}
+td{
+    border: 3px solid black
+    }
+    .border-none{
+        border: 0px;
+    }
+    .red{
+background-color: rgb(202, 68, 68);
+    }
+    .green{
+background-color: rgb(39, 141, 39);
+    }
+    .blue{
+background-color: rgb(62, 62, 224);
+    }
+    .yellow{
+background-color: rgb(218, 218, 109);
+    }
+    .coral{
+background-color:rgb(43, 165, 165);
+    }
+    .orange{
+background-color: rgb(241, 105, 55);
+    }
+    .grey{
+background-color:rgb(223, 178, 178);
+    }
+    .brown{
+        background-color: rgb(169, 136, 192);
+        font-size:15px ;
+        font-style:normal;
+    }
+    .LA{
+        background-color: rgb(169, 136, 192);
+    }
